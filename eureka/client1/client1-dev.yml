@@ -7,3 +7,4 @@ server:
 spring:
   application:
     name: client1-dev
+test: 张三
