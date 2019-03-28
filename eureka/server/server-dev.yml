@@ -5,7 +5,7 @@ spring:
     name: eurka-server-dev
 eureka:
   instance:
-    hostname: localhost
+    hostname: 10.2.101.73
   client:
     registerWithEureka: false #是否将自身注册到eureka
     fetchRegistry: false      #是否抓取注册信息
